@@ -32,7 +32,7 @@ Busca servidores que tienen habilitado el **listado de directorios** y exponen e
 
 Como todos los dorks que estamos haciendo, simplemente filtra la información que necesitamos, en este caso cogemos las ips que están públicas, y que este relacionadas con una cámara. Nos saldría algo como esto: 
 
-![Descripción de la imagen](Screenshot_from_2024-10-22_13-27-55.png)
+![[Ip_camera.png]]
 
 ## Sitios que contienen nombres de usuarios
 
