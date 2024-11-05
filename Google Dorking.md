@@ -32,8 +32,7 @@ Busca servidores que tienen habilitado el **listado de directorios** y exponen e
 
 Como todos los dorks que estamos haciendo, simplemente filtra la información que necesitamos, en este caso cogemos las ips que están públicas, y que este relacionadas con una cámara. Nos saldría algo como esto: 
 
-![[Ip_camera.png]]
-
+![](Ip_camera.png)
 ## Sitios que contienen nombres de usuarios
 
 `"Header for logs at time" ext:log`
