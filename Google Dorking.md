@@ -34,3 +34,16 @@ Como todos los dorks que estamos haciendo, simplemente filtra la información qu
 
 ![[Screenshot from 2024-10-22 13-27-55.png]]
 
+
+## Sitios que contienen nombres de usuarios
+
+`"Header for logs at time" ext:log`
+
+### ¿Cómo funciona?
+
+`"Header for logs at time" ext:log` te ayuda a encontrar archivos de registro específicos que contienen una cadena de texto particular, en este caso, esa frase exacta. Lo cual te puede revelar información en este caso de archivos como, usuarios, los cuales se pueden usarse como información, para herramientas que te permitan utilizar fuerza bruta en algunos login.
+
+
+## Info Importante
+
+**La clave para prevenir los riesgos que Google Dorking expone** siempre recae en las **medidas de seguridad a nivel de servidor** y **configuración adecuada del sistema**. Aunque las consultas de Google Dorking son una forma muy poderosa de buscar información expuesta, lo que realmente previene que esa información esté accesible públicamente es cómo esté configurado el servidor web y la infraestructura de seguridad en general.
